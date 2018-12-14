@@ -120,8 +120,8 @@ INSERT INTO `user` (`username`, `email`, `passwords`) VALUES
 ('abcd', 'abcd@gmail.com', '$2y$10$XUfYQcNitaDjDI0JE38MzerCgfmNigOi7ky1eDGDkaamBsFL4SG.2'),
 ('abcde', 'abcde@gmail.com', '$2y$10$B5BvhLEmjxJH5vjg4ltd7OxeuGbP5RzSyUC4TtyIq8eV5OGVfkk7S'),
 ('abcdef', 'abcdef@gmail.com', '$2y$10$qCl9icAKYIqa/FlS91qHDeq5RFMLTYuL507RPBXc63TTZ3HHvoDgK'),
-('ankit123', 'ankit123@gmail.com', '$2y$10$lFhduzK.TDNO.5mI2d/vEeJUf0dxOafHs8Bvwhfts6TOe527wl6Aa'),
-('iamankit', 'ankit@example.com', '$2y$10$Fc2czeliVRaaQVLW6zueO.W1R88TapjNtuREIXcnwTL4K/OVcHAv.'),
+('panda123', 'ankit123@gmail.com', '$2y$10$lFhduzK.TDNO.5mI2d/vEeJUf0dxOafHs8Bvwhfts6TOe527wl6Aa'),
+('panda', 'ankit@example.com', '$2y$10$Fc2czeliVRaaQVLW6zueO.W1R88TapjNtuREIXcnwTL4K/OVcHAv.'),
 ('ankit chouhan', 'ankitchouhan1020@gmail.com', '$2y$10$RG9Xwtw/xnD.5xIPXk/nGOUKi54KXvVX4YI1/0qaQGOHmYAGY4KJS'),
 ('rahul', 'rv1531998@gmail.com', '$2y$10$.kLTzK81kT9wb3VbUP4QX.fw1TOwpdt8UGd93ODGgvQGiw/vefKFW');
 
